@@ -1,6 +1,6 @@
 vless://e660b366-47b4-4cce-9b9c-36938930c979@zizifn.arminred.workers.dev:443?path=%2FIndex%3Fed%3D2560&encryption=none&host=zizifn.arminred.workers.dev&type=ws&security=tls&sni=zizifn.arminred.workers.dev&fp=randomized&alpn=h2,http/1.1#zizifn
 vless://c0eddf4e-e96b-4ae2-993c-f824ca1ffb1b@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=vless.arminred.workers.dev&path=%2F%3Fed%3D2560#vless
 vless://c0eddf4e-e96b-4ae2-993c-f824ca1ffb1b@www.visa.com.sg:8443?encryption=none&security=tls&type=ws&host=vless.arminred.workers.dev&sni=vless.arminred.workers.dev&fp=random&path=%2F%3Fed%3D2560#vless
-vless://f50fb440-c566-4a2f-a81c-f4191e6c3352@edtunnel.arminred.workers.dev:443?encryption=none&security=tls&sni=edtunnel.arminred.workers.dev&fp=randomized&type=ws&host=edtunnel.arminred.workers.dev&path=%2F%3Fed%3D2048#edtunnel.https://cfworker.edtunnel.best
+vless://f50fb440-c566-4a2f-a81c-f4191e6c3352@edtunnel.arminred.workers.dev:443?encryption=none&security=tls&sni=edtunnel.arminred.workers.dev&fp=randomized&type=ws&host=edtunnel.arminred.workers.dev&path=%2F%3Fed%3D2048#edtunnel-cfworker.edtunnel.best
 trojan://tr@www.visa.com.sg:8880?security=none&type=ws&host=trojan.arminred.workers.dev&path=%2F%3Fed%3D2560#trojan
 trojan://tr@www.visa.com.sg:8443?security=tls&type=ws&host=trojan.arminred.workers.dev&sni=trojan.arminred.workers.dev&fp=random&path=%2F%3Fed%3D2560#trojan
